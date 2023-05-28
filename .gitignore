@@ -77,4 +77,6 @@ crashlytics-build.properties
 /Assets/ExampleAssets
 /Assets/Sci-Fi UI
 
-
+.DS_Store
+.vscode
+*.json
